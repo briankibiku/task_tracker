@@ -1,0 +1,9 @@
+{
+  "tasks": [
+    
+    { "id": 1, "text": "Doctor says go ahead", "day": "Fri 13th", "reminder": false },
+    { "id": 2, "text": "It is a baby girl", "day": "Fri 13th", "reminder": true },
+    { "id": 3, "text": "Cook and sleep", "day": "Fri 13th", "reminder": true },
+    { "id": 4, "text": "Rice and beans", "day": "Fri 13th", "reminder": false }
+  ]
+}

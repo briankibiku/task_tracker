@@ -9,7 +9,7 @@ const Header = ({ title, toggleAddTaskForm, showAddTask }) => {
       <h1 style={{ color: "black" }}>{title}</h1>
       <Button
         onClick={toggleAddTaskForm}
-        color={!showAddTask ? "green" : 'red0'}
+        color={!showAddTask ? "green" : 'red'}
         text={!showAddTask ? "Add" : "Hide"}
       />
       {/* <h1 style={headerStyle}>{props.title}</h1> */}
